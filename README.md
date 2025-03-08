@@ -7,9 +7,6 @@ Maximum decimal digits count is 6.
 Blocks are generated every ~3 minutes, with a size limit of 2MB per block.  
 Assuming an average transaction to be composed by 5 inputs and 2 outputs, that are 250 bytes, a block can contain ~8300 transactions, which means ~40 transactions per second.    
 
-## Setup with Docker
-+ Build the base image with `make build`
-+ `$ docker-compose up -d`
 
 ## Installation
 
