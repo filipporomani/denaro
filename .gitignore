@@ -7,3 +7,5 @@ miner.html
 bot.session
 test.db
 postgres/
+Pipfile
+Pipfile.lock
